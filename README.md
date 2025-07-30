@@ -67,4 +67,4 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Adeel's github stats](https://github-readme-stats.vercel.app/api?username=AdiiiCode77&theme=gotham)](https://github.com/AdiiiCode77/github-readme-stats)
+[![Osama's github stats](https://github-readme-stats.vercel.app/api?username=CodeWithmOsama&theme=gotham)](https://github.com/CodeWithmOsama/github-readme-stats)
